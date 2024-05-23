@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:54 Testcase test_Verify_Url_001 is Started
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:55 Opening Browser
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:59 Enter Email:admin@yourstore.com

@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:16 Testcase test_Verify_Url_001 is Started
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:18 Opening Browser and Navigating to demo_nopCommerce
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:19 Page Title is: Your store. Login
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:25 Testcase test_Verify_Url_001 is Passed
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:26 Taking screenshot
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:34 Testcase test_Verify_Url_001 is Completed

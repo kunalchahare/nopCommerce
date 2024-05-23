@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:15 Testcase test_user_login_DDT_005 is Started
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:17 Opening Browser
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:27 Enter Email:admin@yourstore.com
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:30 Enter Password:admin
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:34 Click on Login Button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:37 Login Pass
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:41 Testcase test_user_login_004 is Passed
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:42 Taking screenshot
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:46 Click on Logout Button

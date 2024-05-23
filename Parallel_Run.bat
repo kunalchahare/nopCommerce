@@ -1,0 +1,3 @@
+pytest -v -n=5 --html=HtmlReports/report.html -p no:warnings --browser chrome --alluredir="C:\Users\hp\PycharmProjects\nopCommerce_Project\AllureReports"
+pytest -v -n=5 --html=HtmlReports/report.html -p no:warnings --browser edge --alluredir="C:\Users\hp\PycharmProjects\nopCommerce_Project\AllureReports"
+pytest -v -n=5 --html=HtmlReports/report.html -p no:warnings --browser firefox --alluredir="C:\Users\hp\PycharmProjects\nopCommerce_Project\AllureReports"

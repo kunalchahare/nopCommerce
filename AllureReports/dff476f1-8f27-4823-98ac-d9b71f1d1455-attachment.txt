@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:38 Testcase test_Verify_Url_001 is Started
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:39 Opening Browser
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:43 Enter Email:admin@yourstore.com
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:46 Enter Password:admin
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:50 Click on Login Button
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:53 Testcase test_Login_Logout_002 is Passed
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:54 Taking screenshot
+[32mINFO    [0m Test_UserLogin:test_UserLogin.py:56 Click on Logout Button

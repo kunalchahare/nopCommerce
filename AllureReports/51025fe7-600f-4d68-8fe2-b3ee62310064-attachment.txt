@@ -1,0 +1,22 @@
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:21 Testcase test_Verify_Url_001 is Started
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:22 Opening Browser
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:32 Enter Email:admin@yourstore.com
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:35 Enter Password:admin
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:39 Click on Login Button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:42 Click on Menu: Customer
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:45 Click Submenu: Customer
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:48 Click on Add new Customer
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:51 Entering Mail
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:54 Entering Password
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:57 Entering First Name: Kunal
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:60 Entering Last Name: Chahare
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:63 Selecting Gender as Male
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:66 Entering DOB 12/16/1994
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:69 Entering Company Name as Credence
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:72 Checking 'Is Tax Exempt' box
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:81 Selecting Vendor 1 from Manager of vendor DropDown
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:84 Checking 'Is Tax Exempt' box
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:87 Entering comment 'Credence is Best'
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:90 Click on Save Button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:94 The new customer has been added successfully
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:95 Testcase test_AddCustomer_003 is Passed

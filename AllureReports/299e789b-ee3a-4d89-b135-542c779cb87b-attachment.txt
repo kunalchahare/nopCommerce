@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:24 Testcase test_Verify_Url_001 is Started
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:25 Opening Browser
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:35 Enter Email:admin@yourstore.com
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:38 Enter Password:admin
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:42 Click on Login Button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:45 Click on Menu: Customer
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer.py:48 Click Submenu: Customer
